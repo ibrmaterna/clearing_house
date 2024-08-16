@@ -1,0 +1,32 @@
+registry:
+  # MATERNA
+  - registry.gaia-x.inno-materna.de/v1
+  # ROMS
+  - registry.gaiax4roms.hotsprings.io/main
+  # AISBL
+  - registry.lab.gaia-x.eu/v1
+  - gx-registry.airenetworks.es/v1
+  - gx-registry.arsys.es/v1
+  - gx-registry.aruba.it/v1
+  - gx-registry.gxdch.dih.telekom.com/v1
+compliance:
+  # MATERNA
+  - compliance.gaia-x.inno-materna.de/v1
+  # ROMS
+  - compliance.gaiax4roms.hotsprings.io/main
+  # AISBL 
+  - compliance.lab.gaia-x.eu/v1
+  - gx-compliance.airenetworks.es/v1
+  - gx-compliance.arsys.es/v1
+  - gx-compliance.aruba.it/v1
+  - gx-compliance.gxdch.dih.telekom.com/v1
+registration-notary:
+  # MATERNA
+  - registrationnumber.gaia-x.inno-materna.de/v1
+  # AISBL
+  - registrationnumber.notary.lab.gaia-x.eu/v1
+  - registration.lab.gaia-x.eu/v1
+  - gx-notary.airenetworks.es/v1
+  - gx-notary.arsys.es/v1
+  - gx-notary.aruba.it/v1
+  - gx-notary.gxdch.dih.telekom.com/v1
